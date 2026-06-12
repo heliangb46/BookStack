@@ -182,3 +182,5 @@ Note: This is not an exhaustive list of all libraries and projects that would be
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) and [htmlpurifier-html5](https://github.com/xemlock/htmlpurifier-html5) - _[LGPL-2.1](https://github.com/ezyang/htmlpurifier/blob/master/LICENSE) and [MIT](https://github.com/xemlock/htmlpurifier-html5/blob/master/LICENSE)_
 
 For a detailed breakdown of the JavaScript & PHP projects imported and used via NPM & composer package managers, along with their licenses, please see the [dev/licensing/js-library-licenses.txt](dev/licensing/js-library-licenses.txt) and [dev/licensing/php-library-licenses.txt](dev/licensing/php-library-licenses.txt) files. 
+
+## 我的bookstack
